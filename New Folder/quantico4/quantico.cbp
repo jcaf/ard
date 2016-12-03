@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="quantico" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="menu_fuelSensor/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/quantico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="DS3231.h" />
+		<Unit filename="DS3231_1.cpp" />
+		<Unit filename="I2C.h" />
+		<Unit filename="I2CCommonFx.cpp" />
+		<Unit filename="I2CCommonFx.h" />
+		<Unit filename="I2C_01.cpp" />
+		<Unit filename="LTC68042.cpp" />
+		<Unit filename="LTC68042.h" />
+		<Unit filename="analog_input.cpp" />
+		<Unit filename="analog_input.h" />
+		<Unit filename="board.cpp" />
+		<Unit filename="board.h" />
+		<Unit filename="boot.cpp" />
+		<Unit filename="boot.h" />
+		<Unit filename="date.cpp" />
+		<Unit filename="date.h" />
+		<Unit filename="digital_input.cpp" />
+		<Unit filename="digital_input.h" />
+		<Unit filename="errorsys.cpp" />
+		<Unit filename="errorsys.h" />
+		<Unit filename="ethernet.cpp" />
+		<Unit filename="ethernet.h" />
+		<Unit filename="fuelsensor.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fuelsensor.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fuelsensor_cls500/fuelsensor_cls500.cpp" />
+		<Unit filename="fuelsensor_cls500/fuelsensor_cls500.h" />
+		<Unit filename="fuelsensor_jt606x.cpp" />
+		<Unit filename="fuelsensor_jt606x.h" />
+		<Unit filename="getString.cpp" />
+		<Unit filename="getString.h" />
+		<Unit filename="ikey.cpp" />
+		<Unit filename="ikey.h" />
+		<Unit filename="kb.cpp" />
+		<Unit filename="kb.h" />
+		<Unit filename="lcd_bklight.cpp" />
+		<Unit filename="lcd_bklight.h" />
+		<Unit filename="lcd_fxaux.cpp" />
+		<Unit filename="lcd_fxaux.h" />
+		<Unit filename="leds.cpp" />
+		<Unit filename="leds.h" />
+		<Unit filename="ltc6804.cpp" />
+		<Unit filename="ltc6804.h" />
+		<Unit filename="menu_bkground.cpp" />
+		<Unit filename="menu_bkground.h" />
+		<Unit filename="menu_fuelSensor.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+		</Unit>
+		<Unit filename="menu_fuelSensor.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_calibration.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_calibration.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_fuelTank.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_fuelTank.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_irregularVolume.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_irregularVolume.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_modelOfSensor.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_modelOfSensor.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_outputTypeUnits.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_outputTypeUnits.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_regularVolume.cpp">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_fuelSensor_regularVolume.h">
+			<Option virtualFolder="menu_fuelSensor/" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="menu_inputs.cpp" />
+		<Unit filename="menu_inputs.h" />
+		<Unit filename="menu_mainMenu.cpp" />
+		<Unit filename="menu_mainMenu.h" />
+		<Unit filename="menu_stackInDetail_E.cpp" />
+		<Unit filename="menu_stackInDetail_E.h" />
+		<Unit filename="menu_stackInDetail_V.cpp" />
+		<Unit filename="menu_stackInDetail_V.h" />
+		<Unit filename="openwire.cpp" />
+		<Unit filename="openwire.h" />
+		<Unit filename="quantico4.ino" />
+		<Unit filename="rele.cpp" />
+		<Unit filename="rele.h" />
+		<Unit filename="rs485.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="rtcc.h" />
+		<Unit filename="setnum.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="setnum.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="spline.cpp" />
+		<Unit filename="spline.h" />
+		<Unit filename="stackError.cpp" />
+		<Unit filename="stackError.h" />
+		<Unit filename="stackcurrent.cpp" />
+		<Unit filename="stackcurrent.h" />
+		<Unit filename="system.cpp" />
+		<Unit filename="system.h" />
+		<Unit filename="temperature.cpp" />
+		<Unit filename="temperature.h" />
+		<Unit filename="time.cpp" />
+		<Unit filename="time.h" />
+		<Unit filename="utils.cpp" />
+		<Unit filename="utils.h" />
+		<Unit filename="vscroll.cpp" />
+		<Unit filename="vscroll.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

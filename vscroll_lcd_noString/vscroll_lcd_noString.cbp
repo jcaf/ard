@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vscroll_lcd_noString" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/vscroll_lcd_noString" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ikey.cpp" />
+		<Unit filename="ikey.h" />
+		<Unit filename="kb.cpp" />
+		<Unit filename="kb.h" />
+		<Unit filename="lcd_bklight.cpp" />
+		<Unit filename="lcd_bklight.h" />
+		<Unit filename="lcd_fxaux.cpp" />
+		<Unit filename="lcd_fxaux.h" />
+		<Unit filename="logicblock.cpp" />
+		<Unit filename="logicblock.h" />
+		<Unit filename="system.cpp" />
+		<Unit filename="system.h" />
+		<Unit filename="vscroll.cpp" />
+		<Unit filename="vscroll.h" />
+		<Unit filename="vscroll_lcd_noString.ino" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

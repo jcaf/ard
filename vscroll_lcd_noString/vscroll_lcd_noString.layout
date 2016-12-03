@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="ikey.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="177" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="logicblock.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1950" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="logicblock.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4553" topLine="133" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="15" />
+			<Collapse line="19" />
+			<Collapse line="25" />
+			<Collapse line="30" />
+			<Collapse line="35" />
+			<Collapse line="45" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="63" />
+			<Collapse line="67" />
+			<Collapse line="116" />
+			<Collapse line="121" />
+			<Collapse line="126" />
+			<Collapse line="131" />
+			<Collapse line="136" />
+			<Collapse line="142" />
+			<Collapse line="147" />
+			<Collapse line="152" />
+			<Collapse line="157" />
+		</Folding>
+	</File>
+	<File name="vscroll_lcd_noString.ino" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9791" topLine="341" />
+		</Cursor>
+	</File>
+	<File name="lcd_fxaux.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="409" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="system.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="400" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="vscroll.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1348" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="system.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1586" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="lcd_fxaux.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1432" topLine="44" />
+		</Cursor>
+		<Folding>
+			<Collapse line="32" />
+		</Folding>
+	</File>
+	<File name="vscroll.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4423" topLine="184" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+			<Collapse line="56" />
+			<Collapse line="61" />
+			<Collapse line="67" />
+			<Collapse line="73" />
+			<Collapse line="109" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

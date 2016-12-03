@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>../boot.h</itemPath>
+      <itemPath>../errorsys.h</itemPath>
+      <itemPath>../ikey.h</itemPath>
+      <itemPath>../kb.h</itemPath>
+      <itemPath>../lcd_bklight.h</itemPath>
+      <itemPath>../lcd_fxaux.h</itemPath>
+      <itemPath>../logicblock.h</itemPath>
+      <itemPath>../sdcard.h</itemPath>
+      <itemPath>../sysprint.h</itemPath>
+      <itemPath>../system.h</itemPath>
+      <itemPath>../vscroll.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>../boot.cpp</itemPath>
+      <itemPath>../errorsys.cpp</itemPath>
+      <itemPath>../ikey.cpp</itemPath>
+      <itemPath>../kb.cpp</itemPath>
+      <itemPath>../lcd_bklight.cpp</itemPath>
+      <itemPath>../lcd_fxaux.cpp</itemPath>
+      <itemPath>../logicblock.cpp</itemPath>
+      <itemPath>../sdcard.cpp</itemPath>
+      <itemPath>../sysprint.cpp</itemPath>
+      <itemPath>../system.cpp</itemPath>
+      <itemPath>../vscroll.cpp</itemPath>
+      <itemPath>../vscroll_lcd_noString.ino</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="../boot.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../boot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../errorsys.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../errorsys.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ikey.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ikey.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../kb.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../kb.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../lcd_bklight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../lcd_bklight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../lcd_fxaux.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../lcd_fxaux.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../logicblock.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../logicblock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../sdcard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../sdcard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../sysprint.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../sysprint.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../system.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../system.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../vscroll.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../vscroll.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../vscroll_lcd_noString.ino" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../boot.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../boot.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../errorsys.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../errorsys.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ikey.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ikey.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../kb.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../kb.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../lcd_bklight.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../lcd_bklight.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../lcd_fxaux.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../lcd_fxaux.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../logicblock.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../logicblock.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../sdcard.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../sdcard.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../sysprint.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../sysprint.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../system.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../system.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../vscroll.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../vscroll.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../vscroll_lcd_noString.ino" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

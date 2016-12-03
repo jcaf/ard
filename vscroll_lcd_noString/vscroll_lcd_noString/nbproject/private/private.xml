@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/vscroll.cpp</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/sysprint.h</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/sysprint.cpp</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/vscroll.h</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/lcd_fxaux.cpp</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/lcd_fxaux.h</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/boot.cpp</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/errorsys.h</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/system.cpp</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/sdcard.h</file>
+            <file>file:/home/jcaf/Arduino/vscroll_lcd_noString/boot.h</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="leds.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="32" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lcd_fxaux.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="errorsys.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="158" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DS3231.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6507" topLine="142" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_irregularVolume.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2323" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="menu_inputs.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2199" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_outputTypeUnits.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5084" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="121" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="LTC68042.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="273" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="temperature.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="boot.cpp" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1331" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="kb.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1761" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="LTC68042.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14971" topLine="458" />
+		</Cursor>
+	</File>
+	<File name="stackcurrent.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="112" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="analog_input.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_bkground.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="leds.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="94" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="setnum.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1213" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_modelOfSensor.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1584" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="openwire.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1394" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="errorsys.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1172" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="I2C_01.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="967" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="time.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="370" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="spline.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="99" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="date.cpp" open="0" top="0" tabpos="5" split="1" active="1" splitpos="558" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11355" topLine="457" />
+			<Cursor2 position="809" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="getString.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="146" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_stackInDetail_V.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="602" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="utils.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_calibration.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1202" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="system.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3780" topLine="129" />
+		</Cursor>
+	</File>
+	<File name="fuelsensor.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7249" topLine="150" />
+		</Cursor>
+	</File>
+	<File name="ltc6804.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="411" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="324" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13651" topLine="376" />
+		</Cursor>
+	</File>
+	<File name="ikey.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2417" topLine="59" />
+		</Cursor>
+	</File>
+	<File name="rele.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="989" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="DS3231_1.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="912" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="utils.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="229" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="digital_input.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="996" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="rtcc.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="250" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_calibration.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19111" topLine="556" />
+		</Cursor>
+	</File>
+	<File name="fuelsensor.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2633" topLine="96" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_regularVolume.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="570" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ltc6804.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23358" topLine="726" />
+		</Cursor>
+	</File>
+	<File name="fuelsensor_jt606x.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15664" topLine="465" />
+		</Cursor>
+	</File>
+	<File name="menu_stackInDetail_E.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1539" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="fuelsensor_cls500/fuelsensor_cls500.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6378" topLine="210" />
+		</Cursor>
+	</File>
+	<File name="quantico4.ino" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1829" topLine="88" />
+		</Cursor>
+	</File>
+	<File name="ethernet.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2838" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="spline.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="I2CCommonFx.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="895" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="system.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="880" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="menu_mainMenu.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4068" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="lcd_fxaux.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="286" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="vscroll.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3275" topLine="121" />
+		</Cursor>
+	</File>
+	<File name="fuelsensor_jt606x.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="766" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_regularVolume.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4018" topLine="128" />
+		</Cursor>
+	</File>
+	<File name="vscroll.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1352" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_irregularVolume.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="661" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33720" topLine="1032" />
+		</Cursor>
+	</File>
+	<File name="board.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="304" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_outputTypeUnits.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="485" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_bkground.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="169" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="I2CCommonFx.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="417" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="setnum.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="897" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_modelOfSensor.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="229" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu_fuelSensor_fuelTank.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4694" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="analog_input.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="624" topLine="6" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
